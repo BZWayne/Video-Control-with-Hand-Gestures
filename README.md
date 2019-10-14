@@ -27,3 +27,6 @@ Ultrasonic sensor will measure the distance between hands and sensors that will 
 * If hand is placed in front of the left sensor, then the video should Fast Rewind one step.
 * If hand is placed at right sensor in a particular close distance and then moving towards the sensor will fast forward continuously the video, otherwise rewind continuously.
 * If hand is placed at left sensor in a particular close distance and then moving towards the sensor will increase the sound level of video otherwise decrease.
+
+
+Video Demonstration: https://youtu.be/Gm3kvLNB-rY
